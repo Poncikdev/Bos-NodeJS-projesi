@@ -1,6 +1,6 @@
 # NodeJS Projesi
 
-Selam! Ben Poncik. Bu projenin amacı yok. Sadece Boş NodeJS projesi. Daha fazla proje paylaşmamı istiyorsanız 5 star lazım. Hadi 5 star yapalım. :)
+Selam! Ben Poncik. Bu projenin amacı yok. Sadece Boş NodeJS projesi. Daha fazla proje paylaşmamı istiyorsanız 3 star lazım. Hadi 3 star yapalım. :)
 
 # Kurulum : 
 
